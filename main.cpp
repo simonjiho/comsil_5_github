@@ -10,6 +10,9 @@ void prnMenu(){
 }
 
 int main(){
+
+	cout<<"hello! I'm branch1.\n"<<endl;
+
 	    int mode, selectNumber, tmpItem;
 		LinkedList<int> *p;
 		bool flag = false;
